@@ -8,7 +8,7 @@
     "url": "http://www.ludoviclefevre.fr"
   },
   "bugs": {
-    "url": "http://github.com/ludoviclefevre/hexo-generator-seo-friendly-sitemap/issues"
+    "url": "https://github.com/freak3dot/hexo-generator-seo-friendly-sitemap/issues"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
@@ -42,7 +42,7 @@
     "README.md",
     "LICENSE"
   ],
-  "homepage": "https://github.com/ludoviclefevre/hexo-generator-seo-friendly-sitemap#readme",
+  "homepage": "https://github.com/freak3dot/hexo-generator-seo-friendly-sitemap#readme",
   "keywords": [
     "generator",
     "google",
@@ -54,7 +54,7 @@
   "main": "index",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ludoviclefevre/hexo-generator-seo-friendly-sitemap.git"
+    "url": "https://github.com/freak3dot/hexo-generator-seo-friendly-sitemap.git"
   },
   "scripts": {
     "test": "./node_modules/.bin/jest test",

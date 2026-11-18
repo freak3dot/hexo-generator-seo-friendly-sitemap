@@ -1,5 +1,11 @@
 # hexo-generator-seo-friendly-sitemap
 
+> **Maintained fork.** The original package stopped at 0.2.1 (2020) pinned to ejs 2.6.1, which carries critical
+> advisories and cannot be upgraded in place because ejs 3 dropped the legacy `<% include %>` syntax its templates used.
+> 0.3.0 moves the templates to ejs 3 includes and current dependencies with byte-identical output.
+> Install from GitHub: `npm install github:freak3dot/hexo-generator-seo-friendly-sitemap#v0.3.0`
+
+
 [![Build Status][travis-image]][travis-url]
 [![Dependency Status][daviddm-url]][daviddm-image]
 [![Code Climate](https://codeclimate.com/github/ludoviclefevre/hexo-generator-seo-friendly-sitemap/badges/gpa.svg)](https://codeclimate.com/github/ludoviclefevre/hexo-generator-seo-friendly-sitemap)
